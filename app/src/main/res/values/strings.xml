@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    // Login
+    <string name="str_hello">Hello</string>
+    <string name="str_welcome_back">Welcome Back!</string>
+
+    <string name="str_email">Email</string>
+    <string name="str_password">Password</string>
+    <string name="str_forgot_password">Forgot Password?</string>
+
+    <string name="str_signIn">Sign in</string>
+    <string name="str_or">Or</string>
+    <string name="str_signIn_google">Sign in With Google</string>
+
+    <string name="str_enter_email">Enter email</string>
+    <string name="str_enter_valid_email">Enter valid email</string>
+    <string name="str_enter_password">Enter password</string>
+
+</resources>

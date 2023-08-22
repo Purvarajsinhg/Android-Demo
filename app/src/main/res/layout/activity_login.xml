@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".login.LoginActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintMain"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/_15sdp"
+        android:layout_marginEnd="@dimen/_15sdp"
+        android:background="@color/white">
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guidelineTop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent="0.10" />
+
+        <com.demo.view.CSTextViewMedium30Black
+            android:id="@+id/txtHey"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/str_hello"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/guidelineTop" />
+
+        <com.demo.view.CSTextViewRegular16Gray
+            android:id="@+id/txtWelcome"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/str_welcome_back"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txtHey" />
+
+        <com.demo.view.CustomTextInputLayoutRegular
+            android:id="@+id/txtInpLayoutEmail"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_25sdp"
+            android:hint="@string/str_email"
+            android:imeOptions="actionNext"
+            app:boxStrokeColor="@color/stroke"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txtWelcome"
+            app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.rounded">
+
+            <com.demo.view.CSEditextRegular
+                android:id="@+id/edtEmail"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="textEmailAddress"
+                android:maxLength="50"
+                android:maxLines="1" />
+
+        </com.demo.view.CustomTextInputLayoutRegular>
+
+        <com.demo.view.CustomTextInputLayoutRegular
+            android:id="@+id/txtInpLayoutPassword"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:hint="@string/str_password"
+            android:imeOptions="actionNext"
+            android:textSize="@dimen/_18sdp"
+            app:boxStrokeColor="@color/stroke"
+            app:endIconMode="password_toggle"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txtInpLayoutEmail"
+            app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.rounded">
+
+            <com.demo.view.CSEditextRegular
+                android:id="@+id/edtPassword"
+                android:maxLines="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="textEmailAddress"
+                android:maxLength="50" />
+
+        </com.demo.view.CustomTextInputLayoutRegular>
+
+        <com.demo.view.CSTextViewMediumGray
+            android:id="@+id/txtForgotPass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:text="@string/str_forgot_password"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txtInpLayoutPassword" />
+
+        <com.demo.view.CSButtonMedium16BlueGradient
+            android:id="@+id/txtLogin"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:layout_marginBottom="@dimen/_15sdp"
+            android:text="@string/str_signIn"
+            android:textAllCaps="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txtForgotPass" />
+
+        <com.demo.view.CSTextViewMedium14Gray
+            android:id="@+id/txtOr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:text="@string/str_or"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txtLogin" />
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/card"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/_40sdp"
+            android:clipToPadding="false"
+            app:cardElevation="2dp"
+            app:cardUseCompatPadding="true"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txtOr">
+
+            <com.demo.view.CSButtonWhite
+                android:id="@+id/txtGoogle"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:drawableStart="@drawable/google"
+                android:drawablePadding="@dimen/_5sdp"
+                android:gravity="center"
+                android:text="@string/str_signIn_google"
+                android:textAllCaps="false"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txtOr" />
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <com.demo.view.CSTextViewRegular14Gray
+            android:id="@+id/txtCreateAct"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:gravity="center"
+            android:textSize="@dimen/_10sdp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>
+

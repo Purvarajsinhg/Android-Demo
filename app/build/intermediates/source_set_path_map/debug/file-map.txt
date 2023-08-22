@@ -1,0 +1,50 @@
+com.demo.app-pngs-0 C:\Projects\Asani - Copy\Android-Code----------\app\build\generated\res\pngs\debug
+com.demo.app-resValues-1 C:\Projects\Asani - Copy\Android-Code----------\app\build\generated\res\resValues\debug
+com.demo.app-rs-2 C:\Projects\Asani - Copy\Android-Code----------\app\build\generated\res\rs\debug
+com.demo.app-packageDebugResources-3 C:\Projects\Asani - Copy\Android-Code----------\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.demo.app-packageDebugResources-4 C:\Projects\Asani - Copy\Android-Code----------\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.demo.app-merged_res-5 C:\Projects\Asani - Copy\Android-Code----------\app\build\intermediates\merged_res\debug
+com.demo.app-debug-6 C:\Projects\Asani - Copy\Android-Code----------\app\src\debug\res
+com.demo.app-main-7 C:\Projects\Asani - Copy\Android-Code----------\app\src\main\res
+com.demo.app-jetified-activity-1.6.0-8 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\11780f4558c95636a42282f3eb560ac0\transformed\jetified-activity-1.6.0\res
+com.demo.app-lifecycle-viewmodel-2.6.1-9 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\118d3cb2061c208e0689010b10d4eb8f\transformed\lifecycle-viewmodel-2.6.1\res
+com.demo.app-jetified-lifecycle-service-2.6.1-10 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\14a5c0cdbc10eac2aa6c3192d54200bc\transformed\jetified-lifecycle-service-2.6.1\res
+com.demo.app-jetified-appcompat-resources-1.6.1-11 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\23f8034d5539674526d123222e210f3a\transformed\jetified-appcompat-resources-1.6.1\res
+com.demo.app-jetified-emoji2-views-helper-1.2.0-12 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\27f5990d24a74c2ab3ace4f5f45752a2\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.demo.app-cardview-1.0.0-13 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\28ad22fa9ab0716f77a8b78c01e320dc\transformed\cardview-1.0.0\res
+com.demo.app-jetified-play-services-basement-18.0.0-14 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\2a97cc8880540b9ebc6c10064991dd0f\transformed\jetified-play-services-basement-18.0.0\res
+com.demo.app-jetified-sdp-android-1.1.0-15 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\2c8e95749a85955dab4e14d864d13230\transformed\jetified-sdp-android-1.1.0\res
+com.demo.app-jetified-fragment-ktx-1.5.7-16 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\31207fa799db4bedef8d3fc684bc261b\transformed\jetified-fragment-ktx-1.5.7\res
+com.demo.app-transition-1.2.0-17 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\37c1ebccf88e75a65c7f7f0deb58a23e\transformed\transition-1.2.0\res
+com.demo.app-jetified-profileinstaller-1.3.0-18 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\384717f08ed61ed71f5d8b8a48347f2c\transformed\jetified-profileinstaller-1.3.0\res
+com.demo.app-databinding-runtime-7.3.0-19 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\4064c59bcd0f92223414daf1f54758ad\transformed\databinding-runtime-7.3.0\res
+com.demo.app-drawerlayout-1.1.1-20 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\43e9a0d4563c7ab858356dc096b59b6c\transformed\drawerlayout-1.1.1\res
+com.demo.app-fragment-1.5.7-21 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\45d818fb2e69c0c6dd54e60b3a53f28a\transformed\fragment-1.5.7\res
+com.demo.app-jetified-play-services-base-18.0.1-22 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\49f427c2af419e5c275000340665337d\transformed\jetified-play-services-base-18.0.1\res
+com.demo.app-jetified-savedstate-1.2.1-23 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\5d8706468558de0dca590de96ba7cd0d\transformed\jetified-savedstate-1.2.1\res
+com.demo.app-jetified-viewpager2-1.0.0-24 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\605ac2bf8042698c9e706b5716e324e4\transformed\jetified-viewpager2-1.0.0\res
+com.demo.app-lifecycle-livedata-2.6.1-25 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\615297fcf1bb504ce92c23723d73bd4e\transformed\lifecycle-livedata-2.6.1\res
+com.demo.app-jetified-glide-4.14.2-26 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\62c269cdf15d1785fea8debb5492f3c4\transformed\jetified-glide-4.14.2\res
+com.demo.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-27 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\70dbd9d772d7c3634c2d8e007aebfed3\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.demo.app-jetified-core-ktx-1.10.0-28 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\74ee07c47cf2f31eaedc4d2a15e47127\transformed\jetified-core-ktx-1.10.0\res
+com.demo.app-jetified-activity-ktx-1.6.0-29 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\754443d023aaa305921ab4ec46aef27f\transformed\jetified-activity-ktx-1.6.0\res
+com.demo.app-jetified-savedstate-ktx-1.2.1-30 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\764ac0d2d1c2d7b4c2ef822270b3dc3f\transformed\jetified-savedstate-ktx-1.2.1\res
+com.demo.app-jetified-lifecycle-livedata-core-ktx-2.6.1-31 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\879d76e0ca7f5978f476c044e9565ea2\transformed\jetified-lifecycle-livedata-core-ktx-2.6.1\res
+com.demo.app-coordinatorlayout-1.1.0-32 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\9efa612a905b71ef54797160ae189ee6\transformed\coordinatorlayout-1.1.0\res
+com.demo.app-constraintlayout-2.1.4-33 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\a85058c58de5da855f01df94378aa512\transformed\constraintlayout-2.1.4\res
+com.demo.app-lifecycle-livedata-core-2.6.1-34 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\acdfb9b0166aed69ad7f587f75341843\transformed\lifecycle-livedata-core-2.6.1\res
+com.demo.app-jetified-lifecycle-process-2.6.1-35 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\aed3bee263d943316005d2ee85cb7a4d\transformed\jetified-lifecycle-process-2.6.1\res
+com.demo.app-jetified-places-3.1.0-36 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\b6154db65becd5e68bc30c60ac45ead3\transformed\jetified-places-3.1.0\res
+com.demo.app-core-runtime-2.2.0-37 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\bf588a7b5a1dc0f87d2084d69eec4f41\transformed\core-runtime-2.2.0\res
+com.demo.app-recyclerview-1.1.0-38 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\caaf25640d2d375331618f3dbd90931d\transformed\recyclerview-1.1.0\res
+com.demo.app-jetified-emoji2-1.2.0-39 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\cd0b46e9be40bc84c0773fd99c9db92d\transformed\jetified-emoji2-1.2.0\res
+com.demo.app-appcompat-1.6.1-40 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\d4b5cef567f718e2dad0ed3ac7cab92c\transformed\appcompat-1.6.1\res
+com.demo.app-core-1.10.0-41 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\d72df5e5f7635ce10eb86c03f0da765d\transformed\core-1.10.0\res
+com.demo.app-jetified-startup-runtime-1.1.1-42 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\d7f617ff1aad1cb0c26a1f0938f38217\transformed\jetified-startup-runtime-1.1.1\res
+com.demo.app-jetified-play-services-maps-17.0.0-43 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\de10d73e48357c3f352717776cca0b49\transformed\jetified-play-services-maps-17.0.0\res
+com.demo.app-jetified-annotation-experimental-1.3.0-44 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\eb39903d6f11430fb86be6face04e5b3\transformed\jetified-annotation-experimental-1.3.0\res
+com.demo.app-jetified-lifecycle-viewmodel-ktx-2.6.1-45 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\eb47feec140ad246ed0b3409f1c12a13\transformed\jetified-lifecycle-viewmodel-ktx-2.6.1\res
+com.demo.app-jetified-lifecycle-runtime-ktx-2.6.1-46 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\f7083f24a0e153162dd5c0265683c982\transformed\jetified-lifecycle-runtime-ktx-2.6.1\res
+com.demo.app-lifecycle-runtime-2.6.1-47 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\f82fa8999df13ad57e1e027483310893\transformed\lifecycle-runtime-2.6.1\res
+com.demo.app-databinding-adapters-7.3.0-48 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\fc8d59f297b0165d2f0773233520ec1f\transformed\databinding-adapters-7.3.0\res
+com.demo.app-material-1.8.0-49 C:\Users\purvarajsinh_moontec\.gradle\caches\transforms-3\fef242bd9db896927a329785490246a2\transformed\material-1.8.0\res
